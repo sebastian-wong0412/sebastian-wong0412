@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-wong0412)](https://github.com/anuraghazra/github-readme-stats)
+[![Sebastian Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-wong0412)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sebastian-wong0412/sebastian-wong0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
