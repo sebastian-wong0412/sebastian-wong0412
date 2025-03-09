@@ -1,7 +1,10 @@
-## Hi there 👋
+# Sebastian Wong 
 
 [![Sebastian Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-wong0412)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🦄 Bachelor of Science & Engineering at THU
+- 🤖 Working on Machine Learning
+- 😄 Pronouns: He/Him
 <!--
 **sebastian-wong0412/sebastian-wong0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
